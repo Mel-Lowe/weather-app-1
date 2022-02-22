@@ -1,0 +1,95 @@
+.weather-app {
+  border: 1px solid #dee2e6;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 15px;
+  max-width: 600px;
+  background-color: #94c9ff;
+  background: linear-gradient(#94c9ff, #fff);
+  box-shadow: 10px 5px 5px #dee2e6;
+}
+form {
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  padding: 10px;
+  font-family: "Bebas Neue", cursive;
+  font-weight: 700;
+}
+.midSection {
+  font-family: "Bebas Neue", cursive;
+}
+
+#temp-text {
+  font-size: 35px;
+}
+.units {
+  font-size: 20px;
+}
+.temp-text {
+  text-align: center;
+}
+
+.main-icon {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 150px;
+}
+.weather-description {
+  text-align: center;
+}
+footer {
+  font-family: "Bebas Neue", cursive;
+}
+.day {
+  text-align: center;
+}
+.day-1 {
+  margin: 0 auto;
+  padding: 20px;
+
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(23, 102, 155, 0.8);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.day-2 {
+  margin: 0 auto;
+  padding: 20px;
+
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(23, 102, 155, 0.8);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.day-3 {
+  margin: 0 auto;
+  padding: 20px;
+
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(23, 102, 155, 0.8);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+.day-4 {
+  margin: 0 auto;
+  padding: 20px;
+
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(23, 102, 155, 0.8);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+.day-5 {
+  margin: 0 auto;
+  padding: 20px;
+
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(23, 102, 155, 0.8);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
